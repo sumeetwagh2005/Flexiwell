@@ -1,2 +1,2 @@
 # Flexewell
-This is an Finess/Physical Well-being App
+This is an Fitess/Physical Well-being App
