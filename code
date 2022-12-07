@@ -1,0 +1,1291 @@
+<View
+android:id="@+id/canvas"
+android:background="#1E1E1E" />
+
+<!-- INTRO PAGE 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/intro_page_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@drawable/intro_page_"
+ />
+
+
+<!-- drawable/intro_page_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="800dp"
+android:viewportWidth="360"
+android:viewportHeight="800"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V800H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V800H360V0"
+android:fillColor="#1C1C1E"
+/>
+
+<path
+android:pathData="M0 0H360V800H0V0Z"
+android:strokeWidth="2"
+android:strokeColor="#FCF6F6"
+/>
+
+</group>
+
+</vector>
+
+
+<!-- Onboarding - 5 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/onboarding_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/onboarding_"
+ />
+
+
+<!-- drawable/onboarding_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Onboarding - 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/onboarding_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/onboarding_"
+ />
+
+
+<!-- drawable/onboarding_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Onboarding - 2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/onboarding_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/onboarding_"
+ />
+
+
+<!-- drawable/onboarding_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Onboarding - 3 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/onboarding_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/onboarding_"
+ />
+
+
+<!-- drawable/onboarding_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Onboarding - 4 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/onboarding_"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/onboarding_"
+ />
+
+
+<!-- drawable/onboarding_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+<!-- Register Page - 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/register_pa"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/register_pa"
+ />
+
+
+<!-- drawable/register_pa.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Register Page - 2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/register_pa"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/register_pa"
+ />
+
+
+<!-- drawable/register_pa.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="395dp"
+android:height="830dp"
+android:viewportWidth="395"
+android:viewportHeight="830"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H355C377.091 0 395 17.9086 395 40V790C395 812.091 377.091 830 355 830H40C17.9086 830 0 812.091 0 790V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V830H395V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Register Page - 3.1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/register_pa"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/register_pa"
+ />
+
+
+<!-- drawable/register_pa.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Register Page - 3.2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/register_pa"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/register_pa"
+ />
+
+
+<!-- drawable/register_pa.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Register Page - 3.3 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/register_pa"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/register_pa"
+ />
+
+
+<!-- drawable/register_pa.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+<!-- Login Page -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/login_page"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/login_page"
+ />
+
+
+<!-- drawable/login_page.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M30 0H345C361.569 0 375 13.4315 375 30V782C375 798.569 361.569 812 345 812H30C13.4315 812 0 798.569 0 782V30C0 13.4315 13.4315 0 30 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Success Registration -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/success_reg"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/success_reg"
+ />
+
+
+<!-- drawable/success_reg.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M30 0H345C361.569 0 375 13.4315 375 30V782C375 798.569 361.569 812 345 812H30C13.4315 812 0 798.569 0 782V30C0 13.4315 13.4315 0 30 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+<!-- Home -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/home"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/home"
+ />
+
+
+<!-- drawable/home.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1527dp"
+android:viewportWidth="375"
+android:viewportHeight="1527"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1487C375 1509.09 357.091 1527 335 1527H40C17.9086 1527 0 1509.09 0 1487V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1527H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Notification -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/notificatio"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/notificatio"
+ />
+
+
+<!-- drawable/notificatio.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Activity Tracker -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/activity_tr"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/activity_tr"
+ />
+
+
+<!-- drawable/activity_tr.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Profile -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/profile"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/profile"
+ />
+
+
+<!-- drawable/profile.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Congratulations Page -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/congratulat"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/congratulat"
+ />
+
+
+<!-- drawable/congratulat.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Workout Tracker -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/workout_tra"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/workout_tra"
+ />
+
+
+<!-- drawable/workout_tra.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1175dp"
+android:viewportWidth="375"
+android:viewportHeight="1175"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1135C375 1157.09 357.091 1175 335 1175H40C17.9086 1175 0 1157.09 0 1135V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1175H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Workout Details 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/workout_det"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/workout_det"
+ />
+
+
+<!-- drawable/workout_det.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1640dp"
+android:viewportWidth="375"
+android:viewportHeight="1640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1600C375 1622.09 357.091 1640 335 1640H40C17.9086 1640 0 1622.09 0 1600V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1640H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Workout Details 2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/workout_det"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/workout_det"
+ />
+
+
+<!-- drawable/workout_det.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1262dp"
+android:viewportWidth="375"
+android:viewportHeight="1262"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1222C375 1244.09 357.091 1262 335 1262H40C17.9086 1262 0 1244.09 0 1222V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1262H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Workout Schedule -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/workout_sch"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/workout_sch"
+ />
+
+
+<!-- drawable/workout_sch.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- On Click Schedule -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/on_click_sc"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/on_click_sc"
+ />
+
+
+<!-- drawable/on_click_sc.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Add Workout Schedule -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/add_workout"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/add_workout"
+ />
+
+
+<!-- drawable/add_workout.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Meal Planner -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/meal_planne"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/meal_planne"
+ />
+
+
+<!-- drawable/meal_planne.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="965dp"
+android:viewportWidth="375"
+android:viewportHeight="965"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V925C375 947.091 357.091 965 335 965H40C17.9086 965 0 947.091 0 925V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V965H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Category Breakfast -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/category_br"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/category_br"
+ />
+
+
+<!-- drawable/category_br.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="879dp"
+android:viewportWidth="375"
+android:viewportHeight="879"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V839C375 861.091 357.091 879 335 879H40C17.9086 879 0 861.091 0 839V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V879H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Meal Details -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/meal_detail"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/meal_detail"
+ />
+
+
+<!-- drawable/meal_detail.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1313dp"
+android:viewportWidth="375"
+android:viewportHeight="1313"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1273C375 1295.09 357.091 1313 335 1313H40C17.9086 1313 0 1295.09 0 1273V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1313H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Meal Schedule -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/meal_schedu"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/meal_schedu"
+ />
+
+
+<!-- drawable/meal_schedu.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1313dp"
+android:viewportWidth="375"
+android:viewportHeight="1313"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1273C375 1295.09 357.091 1313 335 1313H40C17.9086 1313 0 1295.09 0 1273V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1313H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Sleep Tracker -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/sleep_track"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/sleep_track"
+ />
+
+
+<!-- drawable/sleep_track.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="849dp"
+android:viewportWidth="375"
+android:viewportHeight="849"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V809C375 831.091 357.091 849 335 849H40C17.9086 849 0 831.091 0 809V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V849H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Sleep Schedule -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/sleep_sched"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/sleep_sched"
+ />
+
+
+<!-- drawable/sleep_sched.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Add Alarm -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/add_alarm"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/add_alarm"
+ />
+
+
+<!-- drawable/add_alarm.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+
+<!-- Progress Photo -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/progress_ph"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/progress_ph"
+ />
+
+
+<!-- drawable/progress_ph.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="896dp"
+android:viewportWidth="375"
+android:viewportHeight="896"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V856C375 878.091 357.091 896 335 896H40C17.9086 896 0 878.091 0 856V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V896H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Comparison -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/comparison"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/comparison"
+ />
+
+
+<!-- drawable/comparison.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Compare Result 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/compare_res"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/compare_res"
+ />
+
+
+<!-- drawable/compare_res.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="1239dp"
+android:viewportWidth="375"
+android:viewportHeight="1239"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V1199C375 1221.09 357.091 1239 335 1239H40C17.9086 1239 0 1221.09 0 1199V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V1239H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- Compare Result 2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/compare_res"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/compare_res"
+ />
+
+
+<!-- drawable/compare_res.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+<!-- Take Photo -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/take_photo"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/take_photo"
+ />
+
+
+<!-- drawable/take_photo.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M40 0H335C357.091 0 375 17.9086 375 40V772C375 794.091 357.091 812 335 812H40C17.9086 812 0 794.091 0 772V40C0 17.9086 17.9086 0 40 0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+
